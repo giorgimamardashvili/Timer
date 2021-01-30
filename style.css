@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  display: block;
+  margin-top: 150px;
+  margin-left: 44%;
+}
+
+.timer {
+  width: 40%;
+  height: 150px;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 5%;
+  justify-content: space-around;
+  align-items: center;
+}
